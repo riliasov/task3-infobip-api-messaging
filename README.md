@@ -1,4 +1,4 @@
-# WhatsApp Bulk Sender через Infobip
+# Задание 3: Отправка сообщений через WhatsApp API
 
 Скрипт для отправки массовых WhatsApp-сообщений через Infobip API на основе данных из MySQL.
 
